@@ -1,6 +1,0 @@
-master a
-b
-c
-master d
-e
-f
